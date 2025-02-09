@@ -15,6 +15,12 @@ let superheroes = [
   },
   {
     id: Date.now().toString() + "2",
+    name: "Kotryna",
+    superpower: "read books by glance",
+    humilityScore: "10",
+  },
+  {
+    id: Date.now().toString() + "2",
     name: "Anshil Rubey",
     superpower: "Travel to Space",
     humilityScore: "8",
@@ -36,12 +42,6 @@ let superheroes = [
     name: "Arun",
     superpower: "Mind Reader",
     humilityScore: "2",
-  },
-  {
-    id: Date.now().toString() + "6",
-    name: "Eshan",
-    superpower: "Best Coder in the world",
-    humilityScore: "1",
   },
 ];
 
